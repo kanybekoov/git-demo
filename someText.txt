@@ -1,1 +1,3 @@
 Hello from someText.txt file!!!
+
+Lets change file!
