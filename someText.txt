@@ -3,3 +3,6 @@ Hello from someText.txt file!!
 Lets change file!
 
 I like to code
+
+hey how its going on
+----------------
